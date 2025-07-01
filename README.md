@@ -1,1 +1,3 @@
 # BetterMind-Labs-AI-Project
+Health misinformation, especially online, spreads rapidly and can lead to harmful behaviors, delayed treatments, or public distrust in medical guidance. Identifying false or misleading health claims is challenging due to the volume, variability, and complexity of such content. It is becoming increasingly necessary to have an intelligent, accessible tool that can automatically analyze health-related text and flag potential misinformation using trusted medical knowledge.
+Our AI Powered Misinformation Detector empowers healthcare professionals and the public with a reliable tool to combat misleading health information. We are building a future where accurate health insights are easily accessible.
