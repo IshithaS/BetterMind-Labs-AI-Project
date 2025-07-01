@@ -2,5 +2,4 @@
 streamlit
 google-generativeai
 PyPDF2
-from PIL import Image, ImageDraw, ImageFont
 textwrap
