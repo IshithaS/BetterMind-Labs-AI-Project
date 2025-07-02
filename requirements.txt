@@ -1,5 +1,4 @@
 # requirements.txt
 streamlit
 google-generativeai
-PyPDF2
 textwrap
