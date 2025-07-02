@@ -6,7 +6,6 @@ import io
 import re
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
-import requirements.txt
 
 api_key = "AIzaSyCFOndLMW6MI0EC-5ion89XACQgwk-dB1A"
 genai.configure(api_key=api_key)
